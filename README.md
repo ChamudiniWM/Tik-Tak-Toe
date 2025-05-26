@@ -7,3 +7,7 @@ Tic Tac Toe in C is a console-based game that allows two players to play Tic Tac
    3. Win and draw detection,
    4. Game board output saved to a text file,
    5. Players alternate turns until one wins or the game ends in a draw.
+
+
+
+By W M Chamudini (November 2023)
